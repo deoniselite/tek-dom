@@ -3,7 +3,8 @@
 body {
   text-align: center;
   /* overflow: hidden; */
-  background-image: url('images/galaxy-background.jpg');
+ /* background-image: url('images/galaxy-background.jpg');
+ */
   background-color: rgb(7, 7, 44);
   color: white;
 }
